@@ -40,7 +40,7 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/react-demo-app.git
+   git clone https://github.com/s-soumyakanta/react-demo-app
    cd react-demo-app
    ```
 
@@ -105,23 +105,6 @@ This application can be deployed to any modern hosting platform. Here are some p
    ```
 
 3. Access the app at `http://localhost:3000`.
-
----
-
-## Repository Structure
-
-```plaintext
-.
-├── public/           # Static assets
-├── src/              # Application source code
-│   ├── components/   # React components
-│   ├── App.jsx       # Main application file
-│   ├── main.jsx      # Entry point
-├── index.html        # HTML template
-├── package.json      # Project configuration
-├── vite.config.js    # Vite configuration
-└── README.md         # Documentation
-```
 
 ---
 
